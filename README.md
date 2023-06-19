@@ -284,7 +284,7 @@ bakiye miktar kontrolu yapılır
 Adım 9: uygunsa bakiyeden miktar c¸ıkarılır Adım 10: bakiyeyi
 guncelleyen sorgu gonderilir
 
-![](img/n255spp2.png)
+![](img/img.png)
 
 > Fig. 1. Flame sensor uygulaması ornegi
 
